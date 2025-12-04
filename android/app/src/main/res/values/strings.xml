@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">anargya_one</string>
+    <string name="title_activity_main">anargya_one</string>
+    <string name="package_name">com.anargya.academy</string>
+    <string name="custom_url_scheme">com.anargya.academy</string>
+</resources>
